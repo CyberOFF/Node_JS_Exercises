@@ -1,0 +1,16 @@
+{
+  "name": "estudo-js",
+  "version": "1.0.0",
+  "description": "Make a project directory and create the following files inside that directory: index.html about.html contact-me.html 404.html",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
